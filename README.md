@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+%40-Eng-ShuaibAli1+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+%40-Eng-yareAli+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently 3rd Year @UW 
@@ -15,14 +15,14 @@
   
 - 👀 GitHub Profile Visits: 
 
-  ![Visitor Count](https://profile-counter.glitch.me/ShuaibAli1/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/yareAli/count.svg)
  
 
 ### Github Stats
 
-[![@ShuaibAli1's Github Stats](https://github-readme-stats.vercel.app/api?username=ShuaibAli1&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ShuaibAli1)
+[![@yareAli's Github Stats](https://github-readme-stats.vercel.app/api?username=yareAli&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/yareAli)
 
-[![@ShuaibAli's Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShuaibAli1&theme=vue)](https://github.com/ShuaibAli1)
+[![@yareAli's Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yareAli&theme=vue)](https://github.com/yareAli)
 
 ### Want to support?
  
